@@ -5,9 +5,7 @@
 
 ## 多出力GP
 - [Notebook](MultiOutputGP.ipynb)
-- Mauricio A. Alvarez, Lorenzo Rosasco, Neil D. Lawrence, "Kernels for Vector-Valued Functions: a Review"  
-
-https://arxiv.org/pdf/1106.6251.pdf
+- Mauricio A. Alvarez, Lorenzo Rosasco, Neil D. Lawrence, "Kernels for Vector-Valued Functions: a Review"　https://arxiv.org/pdf/1106.6251.pdf
 
 ## 補助点を使ったGP
 - [numpy実装](sor_gp_np.ipynb)
