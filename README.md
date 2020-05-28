@@ -14,5 +14,9 @@
 
 ## 補助変数法GPの変分ベイズ学習
 - [Notebook](vbgp.ipynb)
-- まだバグあるかも．
 - Titsias, Michalis. "Variational learning of inducing variables in sparse Gaussian processes." Artificial Intelligence and Statistics. 2009
+
+
+## 補助変数法GPの変分ベイズ学習に基づく方策探索
+- [Notebook](vbgp_policy_serch.ipynb)
+- 状態（入力）x，アクション（出力）y，と報酬rから，変分ベイズを使ってGPの補助入力点とハイパーパラメータを学習します
