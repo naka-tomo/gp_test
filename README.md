@@ -1,4 +1,5 @@
 # Gaussian Process Test
+全てgoogle colabで動作することを確認しています．
 
 ## Cython実装のシンプルなGP
 - [Notebook](gp.ipynb)
@@ -20,3 +21,7 @@
 ## 補助変数法GPの変分ベイズ学習に基づく方策探索
 - [Notebook](vbgp_policy_serch.ipynb)
 - 状態（入力）x，アクション（出力）y，と報酬rから，変分ベイズを使ってGPの補助入力点とハイパーパラメータを学習します
+
+## Gaussian Process Latent Variable Models
+- [Notebook](gplvm.ipynb)
+- Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
