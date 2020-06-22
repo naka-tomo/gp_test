@@ -1,8 +1,9 @@
 # Gaussian Process Test
 全てgoogle colabで動作することを確認しています．
 
-## Cython実装のシンプルなGP
-- [Notebook](gp.ipynb)
+## シンプルなGP
+- [Pytorch実装](gp_torch.ipynb)
+- [Cython実装](gp.ipynb)
 
 ## 多出力GP
 - [Notebook](MultiOutputGP.ipynb)
@@ -27,5 +28,5 @@
 - Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
 
 ## 畳み込みGP
-- [Notebook](https://github.com/naka-tomo/gp_test/blob/master/conv_gp_torch.ipynb)
+- [Notebook](conv_gp_torch.ipynb)
 - Mark van der Wilk, Carl Edward Rasmussen, James Hensman, "Convolutional Gaussian Processes", NIPS, 2017
