@@ -25,3 +25,7 @@
 ## Gaussian Process Latent Variable Models
 - [Notebook](gplvm.ipynb)
 - Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
+
+## 畳み込みGP
+- [Notebook](https://github.com/naka-tomo/gp_test/blob/master/conv_gp_torch.ipynb)
+- Mark van der Wilk, Carl Edward Rasmussen, James Hensman, "Convolutional Gaussian Processes", NIPS, 2017
