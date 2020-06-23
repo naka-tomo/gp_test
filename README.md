@@ -28,5 +28,6 @@
 - Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
 
 ## 畳み込みGP
-- [Notebook](conv_gp_torch.ipynb)
+- 単純な方法：[Notebook](conv_gp_torch.ipynb)
+- 変分ベイズで畳み込みのパッチを学習する方法：[Notebook](conv_vbgp.ipynb)
 - Mark van der Wilk, Carl Edward Rasmussen, James Hensman, "Convolutional Gaussian Processes", NIPS, 2017
