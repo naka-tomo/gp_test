@@ -23,6 +23,11 @@
 - [Notebook](vbgp_policy_serch.ipynb)
 - 状態（入力）x，アクション（出力）y，と報酬rから，変分ベイズを使ってGPの補助入力点とハイパーパラメータを学習します
 
+## Unsupervised Kernel Regression
+- [Notebook](ukr.ipynb)
+- Stefan Klanke, Helge Ritter, "Variants of unsupervised kernel regression: General cost functions", Neurocomputing, Vol. 70, Issues 7–9, pp. 1289-1303, 2007 
+
+
 ## Gaussian Process Latent Variable Models
 - [Notebook](gplvm.ipynb)
 - Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
