@@ -32,6 +32,11 @@
 - [Notebook](gplvm.ipynb)
 - Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
 
+## DeepGP
+- [Notebook](deep_gp_torch.ipynb)
+- 深層学習に対応するカーネルを使ったガウス過程
+- Jaehoon Lee, Yasaman Bahri, Roman Novak, Samuel S. Schoenholz, Jeffrey Pennington, Jascha Sohl-Dickstein, "Deep Neural Networks as Gaussian Processes", ICLR, 2018
+
 ## 畳み込みGP
 - 単純な方法：[Notebook](conv_gp_torch.ipynb)
 - 変分ベイズで畳み込みのパッチを学習する方法：[Notebook](conv_vbgp.ipynb)
