@@ -32,6 +32,10 @@
 - [Notebook](gplvm.ipynb)
 - Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
 
+## Gaussian Process Dynamical Models
+- [Notebook](gpdm.ipynb)
+- Wang Jack, Aaron Hertzmann, and David J. Fleet, "Gaussian process dynamical models," Advances in neural information processing systems, 2006
+
 ## DeepGP
 - [Notebook](deep_gp_torch.ipynb)
 - 深層学習に対応するカーネルを使ったガウス過程
