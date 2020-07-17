@@ -36,6 +36,10 @@
 - [Notebook](gpdm.ipynb)
 - Wang Jack, Aaron Hertzmann, and David J. Fleet, "Gaussian process dynamical models," Advances in neural information processing systems, 2006
 
+## Spectral Mixture Kernel GP
+- [Notebook](smkernel_gp.ipynb)
+- Andrew Gordon Wilson, and Ryan Prescott Adams, "Gaussian process kernels for pattern discovery and extrapolation," International conference on machine learning, 2013
+
 ## DeepGP
 - [Notebook](deep_gp_torch.ipynb)
 - 深層学習に対応するカーネルを使ったガウス過程
