@@ -5,6 +5,10 @@
 - [Pytorch実装](gp_torch.ipynb)
 - [Cython実装](gp.ipynb)
 
+## LU分解を利用して逆行列演算なしで計算するGP
+- [Notebook](gp_wo_inv_torch.ipynb)
+-  C. E. Rasmussen and C. K. I. Williams, "Gaussian Processes for Machine Learning," The MIT Press, 2006
+
 ## 多出力GP
 - [Notebook](MultiOutputGP.ipynb)
 - Mauricio A. Alvarez, Lorenzo Rosasco, Neil D. Lawrence, "Kernels for Vector-Valued Functions: a Review"　https://arxiv.org/pdf/1106.6251.pdf
