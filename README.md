@@ -15,7 +15,7 @@
 
 ## 補助点を使ったGP
 - [numpy実装](sor_gp_np.ipynb)
-- [pytorch実装](sor_gp.ipynb)：GPUを使ってもあまり高速化しなかった・・・
+- [pytorch実装](sor_gp.ipynb)
 - Joaquin Quinonero-Candela, Carl Edward Rasmussen, "A Unifying View of Sparse Approximate Gaussian Process Regression," Journal of Machine Learning Research, pp. 1939–1959, 2005
 
 ## 補助変数法GPの変分ベイズ学習
