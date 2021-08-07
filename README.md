@@ -5,6 +5,9 @@
 - [Pytorch実装](gp_torch.ipynb)
 - [Cython実装](gp.ipynb)
 
+## GPのハイパーパラメータ推定（MCMC・勾配法）
+- [Notebook](gp_hyperparam_est.ipynb)
+
 ## LU分解を利用して逆行列演算なしで計算するGP
 - [Notebook](gp_wo_inv_torch.ipynb)
 -  C. E. Rasmussen and C. K. I. Williams, "Gaussian Processes for Machine Learning," The MIT Press, 2006
