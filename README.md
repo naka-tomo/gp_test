@@ -38,6 +38,7 @@
 ## Gaussian Process Latent Variable Models
 - [勾配法で推定](gplvm.ipynb)
 - [MCMCで推定](gplvm_mcmc.ipynb)
+- [Hamiltonian MCMCで推定](gplvm_hamiltonian_mcmc_ipynb.ipynb)
 - Lawrence, Neil D. "Gaussian process latent variable models for visualisation of high dimensional data," Advances in neural information processing systems, 2004
 
 ## Gaussian Process Dynamical Models
