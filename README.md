@@ -2,6 +2,7 @@
 全てgoogle colabで動作することを確認しています．
 
 ## シンプルなGP
+- [Numpy実装](gp_np.ipynb)
 - [Pytorch実装](gp_torch.ipynb)
 - [Cython実装](gp.ipynb)
 
