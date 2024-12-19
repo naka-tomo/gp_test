@@ -59,3 +59,7 @@
 - 単純な方法：[Notebook](conv_gp_torch.ipynb)
 - 変分ベイズで畳み込みのパッチを学習する方法：[Notebook](conv_vbgp.ipynb)
 - Mark van der Wilk, Carl Edward Rasmussen, James Hensman, "Convolutional Gaussian Processes", NIPS, 2017
+
+## Random Fourier Features GP
+- [Notebook](gp_rff.ipynb)
+- Rahimi, Ali, and Benjamin Recht, “Random Features for Large-Scale Kernel Machines.” NIPS. Vol. 3. No. 4. 2007.
